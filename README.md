@@ -1,2 +1,1 @@
-# pvg_coet
-This is assignment of AI-BI course 
+#WAD Assign 2 
